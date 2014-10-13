@@ -8,9 +8,13 @@
 */ 
 
 function addition() {
-	// your code goes here!
-}
+	var input1 = parseInt(document.getElementById('additionInput1').value);
+	var input2 = parseInt(document.getElementById('additionInput2').value);
+	var total = input1 + input2;
+	var alert = ('added' value)
 
+}
+document.
 /* --------------------------------------------------------- */
 
 /*  
